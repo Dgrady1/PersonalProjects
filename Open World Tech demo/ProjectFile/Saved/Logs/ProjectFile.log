@@ -4516,3 +4516,6 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.07.18-19.47.00:875][822]LogSlate: Window 'ProjectFile - Unreal Editor' being destroyed
 [2019.07.18-19.47.00:916][822]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2019.07.18-19.47.18:284][823]Cmd: QUIT_EDITOR
+[2019.07.18-19.47.26:599][823]LogExit: Preparing to exit.
+[2019.07.18-19.47.50:030][823]LogExit: Editor shut down
+[2019.07.18-19.47.50:349][823]LogExit: Transaction tracking system shut down
